@@ -58,8 +58,10 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
-
+## SERVER OUTPUT:
+![serveroutput](https://github.com/ARUNKUMART9968/webserver/assets/121215794/40443ab8-9c7b-45a3-81b0-f051cafc6d60)
 ## OUTPUT:
-![output](https://raw.githubusercontent.com/ARUNKUMART9968/webserver/main/image/Screenshot%20.png)
+![Screenshot 2023-06-03 124932](https://github.com/ARUNKUMART9968/webserver/assets/121215794/a324f800-be48-4794-b990-201dfee5bafe)
+
 ## RESULT:
 The program is executed succesfully
